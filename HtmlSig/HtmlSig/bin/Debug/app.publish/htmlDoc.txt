@@ -1,0 +1,52 @@
+﻿<table cellspacing="0" cellpadding="0" border="0" style="width: 500px;">
+    <tbody>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		SALUTATION
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td style="width: 15%; border-right: 2px solid #a9a9a9; padding-right: 10px; vertical-align:middle" valign="middle"><a href="pfnloans.com"><img id="TemplateLogo" data-class="external" src="https://images.pfnrates.com/email_logo.png" alt="NMLS 103098" style="display: block"></a></td>
+			<td style="width: 85%; vertical-align: middle; padding-left: 10px;">
+				<table cellspacing="0" cellpadding="0" border="0">
+					<tbody>
+					<tr>
+						<td style="font-family: Calibri; font-size: 12pt; color: rgb(51, 51, 51);">
+							<font style="font-weight: bold; font-family: Poppins; font-size: 12pt; color: rgb(51, 51, 51);">NAME</font>
+						</td>
+					</tr>				
+					TITLE
+					PHONE			
+					EMAIL/WEB
+					NMLSID
+					ADDRESS
+					<tr style="width">
+					<table>
+						<tr spacing="0"> <!-- data-bind="visible: bannerImageUrl() !== '' || socialMediaVisible() !== ''" spacing="0"> -->
+							CENTER
+							<td data-bind="visible: socialMediaVisible()" style="vertical-align: top" valign="top">
+						</tr>
+					</table>
+				</table>
+			</td>
+		</tr>
+		SECUREUPLOAD
+		<tr>
+				
+			<td data-content="disclaimer" style="max-width: 500px; width: 100%; text-align: justify; padding-top: 5px; font-size: 8pt; color: rgb(136, 136, 136);" colspan="2">
+				<img src="https://images.pfnrates.com/email_confident.png" alt="confidentiality">
+			<!--
+				<font style="font-family: Calibri; font-size: 8pt; color: rgb(136, 136, 136);">Confidentiality:  This message and its contents are confidential and may contain privileged information intended only for the addressee or the intended recipient. If you are not the addressee or the intended recipient of this message, you may not use, copy or disclose to anyone any information contained in this message or its contents. If you have received this message in error, please advise the sender by reply e-mail, delete this message and its contents and destroy any hard copies.  IRS Circular 230 Disclosure: To ensure compliance with requirements imposed by the IRS, please be advised that any U.S. federal tax advice contained in this communication (including any attachments) is not intended or written to be used or relied upon, and cannot be used or relied upon, for the purpose of (i) avoiding penalties under the Internal Revenue Code, or (ii) promoting, marketing or recommending to another party any transaction or matter addressed herein. If you have received this e-mail in error or wish to report a problem, please e-mail us at HelpDesk@PriorityFinancial.net or call 818-223-9999</font>
+			-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://images.pfnrates.com/email_lender.png" alt="lender">
+			</td>
+		</tr>
+	</tbody>
+</table>
